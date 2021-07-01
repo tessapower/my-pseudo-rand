@@ -4,10 +4,11 @@ A pseudo random number generator based on the [Linear Congruential Generator](ht
 
 The LCG is defined by the recurrence relation:
 
-x_n+1 = (a*x_n + c) % m, where:
+<img alt="LCG Recurrence Relation" src="./assets/lcg-recurrence-relation.png" width=100 />
 
-- { m | m > 0 } (modulus)
-- { a | a < m } (multiplier)
-- { c | 0 <= c < m } (increment)
-- { x_0 | 0 <= x_0 < m } (seed/starting value)
+where:
 
+<img alt="Modulus" src="./assets/m.png" width=100 /> — The "Modulus"<br>
+<img alt="Multiplier" src="./assets/a.png" width=100 /> — The "Multiplier"<br>
+<img alt="Increment" src="./assets/c.png" width=100 /> — The "Increment"<br>
+<img alt="Seed or Starting Value" src="./assets/X_0.png" width=100 /> — The "Seed" or "Starting Value"<br>
