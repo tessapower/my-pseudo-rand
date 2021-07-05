@@ -34,6 +34,6 @@ class MyPseudoRand
   def rand
     n = (MULTIPLIER * @last + INCREMENT).modulo(MODULUS)
     @last = n
-    return n.to_f / MODULUS.to_f
+    n.to_f / MODULUS.to_f
   end
 end
