@@ -1,6 +1,8 @@
 ## Pseudo-Random Number Generator
 
-This is a Pseudo-Random Number Generator (PRNG) which I developed for a talk. See also: [tessapower/seeded_random_tests](https://github.com/tessapower/seeded_random_tests).
+This is a Pseudo-Random Number Generator (PRNG) which I developed for a talk.
+
+See also: [tessapower/seeded_random_tests](https://github.com/tessapower/seeded_random_tests).
 
 This generator produces a sequence of pseudo-random numbers in the range [0, 1)—between 0 and 1 (not including 1).
 
