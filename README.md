@@ -1,6 +1,6 @@
 ## Pseudo-Random Number Generator
 
-This is a Pseudo-Random Number Generator (PRNG) which I developed for a talk.
+Repo for a talk I gave on Pseudo-Random Number Generators (with practical examples based on the LCG algorithm).
 
 See also: [tessapower/seeded_random_tests](https://github.com/tessapower/seeded_random_tests).
 
