@@ -1,6 +1,6 @@
 ## Pseudo-Random Number Generator
 
-Repo for a talk I gave on Pseudo-Random Number Generators (with practical examples based on the LCG algorithm).
+Repo for a lightning talk I gave on Pseudo-Random Number Generators (with practical examples based on the LCG algorithm).
 
 See also: [tessapower/seeded_random_tests](https://github.com/tessapower/seeded_random_tests).
 
